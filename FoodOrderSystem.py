@@ -1,7 +1,7 @@
 italian_food = [
   "Pasta Bolognese",
-  "Pepperoni pizza",
-  "Margherita pizza",
+  "Pizza Pepperoni",
+  "Pizza Margherita",
   "Lasagna"
 ]
 
