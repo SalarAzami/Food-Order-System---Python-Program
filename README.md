@@ -2,7 +2,7 @@
 
 A simple Python-based command-line application that simulates a basic food ordering system. Users can view a menu, select items, place an order, and see the total cost.
 
-## ✅ Features
+## Features
 
 * View menu with food items and prices
 * Select multiple items to order
@@ -10,12 +10,12 @@ A simple Python-based command-line application that simulates a basic food order
 * Basic input validation
 * Simple and user-friendly terminal interface
 
-## 🛠 Requirements
+## Requirements
 
 * Python 3.x
   (No external libraries required)
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone or download the repository
 2. Navigate to the project folder
@@ -25,7 +25,7 @@ A simple Python-based command-line application that simulates a basic food order
 python food_order_system.py
 ```
 
-## 📁 File Structure
+## File Structure
 
 ```
 food-order-system/
@@ -34,7 +34,5 @@ food-order-system/
 └── README.md 
 ```
 
-## ✍️ Author
-
-Salar Azami
+## ✍️ Salar Azami
 
