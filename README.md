@@ -30,8 +30,8 @@ python food_order_system.py
 ```
 food-order-system/
 │
-├── food_order_system.py   # Main Python script
-└── README.md              # Project description
+├── food_order_system.py
+└── README.md 
 ```
 
 ## ✍️ Author
