@@ -1,30 +1,30 @@
-# 🍽️ Food-Order-System---Python-Program
+🍕 Food Ordering System 🍝
+A simple Python-based system that lets you order food from Italian 🍝 or Indian 🍛 cuisines.
 
-A simple Python-based command-line application that simulates a basic food ordering system. Users can view a menu, select items, place an order, and see the total cost.
+Select your desired cuisine (Italian or Indian)
 
-## Features
+Pick a meal from the available options
 
-* View menu with food items and prices
-* Select multiple items to order
-* Calculate total cost of the order
-* Basic input validation
-* Simple and user-friendly terminal interface
+Enter the quantity of the meal you wish to order
 
-## Requirements
+Receive a summary of your order
 
-* Python 3.x
-  (No external libraries required)
+Perfect for quick and easy meal selection! 😋
 
-## How to Run
+Persian (Farsi) Version:
 
-1. Clone or download the repository
-2. Navigate to the project folder
-3. Run the script:
+🍕 سیستم سفارش غذا 🍝
+یک سیستم ساده مبتنی بر پایتون که به شما اجازه می‌دهد از غذاهای ایتالیایی 🍝 یا هندی 🍛 سفارش دهید.
 
-```bash
-python food_order_system.py
-```
+نوع غذای مورد نظر (ایتالیایی یا هندی) را انتخاب کنید
 
+از بین گزینه‌های موجود، غذا را انتخاب کنید
+
+تعداد غذای مورد نظر را وارد کنید
+
+خلاصه سفارش خود را دریافت کنید
+
+مناسب برای انتخاب سریع و آسان غذا! 😋
 ## File Structure
 
 ```
