@@ -1,4 +1,4 @@
-🍕 Food Ordering System 🍝
+Food Ordering System 🍝 🍕 
 A simple Python-based system that lets you order food from Italian 🍝 or Indian 🍛 cuisines.
 
 Select your desired cuisine (Italian or Indian)
@@ -11,7 +11,7 @@ Receive a summary of your order
 
 Perfect for quick and easy meal selection! 😋
 
-Persian (Farsi) Version:
+Persian Version:
 
 🍕 سیستم سفارش غذا 🍝
 یک سیستم ساده مبتنی بر پایتون که به شما اجازه می‌دهد از غذاهای ایتالیایی 🍝 یا هندی 🍛 سفارش دهید.
